@@ -18,7 +18,7 @@ _2 TILs and counting..._
 
 ## MongoDB
 
-- [Import Json From File On Local Disk](mongodb/import-json-from-file-on-local-disk)
+- [Import Json From File On Local Disk](mongodb/import-json-from-file-on-local-disk.md)
 
 ## Vim
 
