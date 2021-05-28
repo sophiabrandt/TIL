@@ -11,15 +11,15 @@ _3 TILs and counting..._
 
 ## Categories
 
+* [Kitty Terminal](#kitty)
 * [MongoDB](#mongodb)
 * [Vim](#vim)
-* [Kitty Terminal](#kitty)
 
 ---
 
 ## Kitty
 
-- [Insert Unicode Characters](kitty/insert-unicode-characters)
+- [Insert Unicode Characters](kitty/insert-unicode-characters.md)
 
 ## MongoDB
 
