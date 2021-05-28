@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.  
 Inspired by [Josh Branchaud's TIL repo][jb].
 
-_2 TILs and counting..._
+_3 TILs and counting..._
 
 ---
 
@@ -13,8 +13,13 @@ _2 TILs and counting..._
 
 * [MongoDB](#mongodb)
 * [Vim](#vim)
+* [Kitty Terminal](#kitty)
 
 ---
+
+## Kitty
+
+- [Insert Unicode Characters](kitty/insert-unicode-characters)
 
 ## MongoDB
 
@@ -23,6 +28,5 @@ _2 TILs and counting..._
 ## Vim
 
 - [Set Project Specific .vimrc Files](vim/set-project-specific-vim-files.md)
-
 
 [jb]: https://github.com/jbranchaud/til
