@@ -12,7 +12,7 @@ _4 TILs and counting..._
 ## Categories
 
 * [Kitty Terminal](#kitty)
-* [MySQL/MariaDB](#mysql-mariadb)
+* [MySQL/MariaDB](#mysqlmariadb)
 * [MongoDB](#mongodb)
 * [Vim](#vim)
 
