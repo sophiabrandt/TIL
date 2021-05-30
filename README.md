@@ -5,13 +5,14 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.  
 Inspired by [Josh Branchaud's TIL repo][jb].
 
-_3 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 
 ## Categories
 
 * [Kitty Terminal](#kitty)
+* [MySQL/MariaDB](#mysql-mariadb)
 * [MongoDB](#mongodb)
 * [Vim](#vim)
 
@@ -24,6 +25,10 @@ _3 TILs and counting..._
 ## MongoDB
 
 - [Import Json From File On Local Disk](mongodb/import-json-from-file-on-local-disk.md)
+
+## MySQL/MariaDB
+
+- [Connect to MySQL/MariaDB Via Docker](mysql-mariadb/connect-to-mysql-maridab-via-docker.md)
 
 ## Vim
 
