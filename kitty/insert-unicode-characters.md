@@ -1,5 +1,4 @@
 # Insert Unicode Characters
----
 
 You can input unicode characters by name, hex code, recently used or an editable favorites list. Press **ctrl+shift+u** to start the unicode input widget.
 
