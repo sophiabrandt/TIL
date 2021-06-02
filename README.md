@@ -5,18 +5,23 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.  
 Inspired by [Josh Branchaud's TIL repo][jb].
 
-_4 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
 ## Categories
 
+* [Git](#git)
 * [Kitty Terminal](#kitty)
 * [MySQL/MariaDB](#mysqlmariadb)
 * [MongoDB](#mongodb)
 * [Vim](#vim)
 
 ---
+
+## Git
+
+- [Checkout Pull Request Locally](git/checkout-pull-request-locally.md)
 
 ## Kitty
 
