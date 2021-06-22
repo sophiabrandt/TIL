@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.  
 Inspired by [Josh Branchaud's TIL repo][jb].
 
-_5 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
@@ -13,8 +13,9 @@ _5 TILs and counting..._
 
 * [Git](#git)
 * [Kitty Terminal](#kitty)
-* [MySQL/MariaDB](#mysqlmariadb)
 * [MongoDB](#mongodb)
+* [MySQL/MariaDB](#mysqlmariadb)
+* [Node.js](#nodejs)
 * [Vim](#vim)
 
 ---
@@ -34,6 +35,10 @@ _5 TILs and counting..._
 ## MySQL/MariaDB
 
 - [Connect to MySQL/MariaDB Via Docker](mysql-mariadb/connect-to-mysql-maridab-via-docker.md)
+
+## Node.js
+
+- [Update all packages to latest version](nodejs/update-all-packages-to-latest-version.md)
 
 ## Vim
 
