@@ -5,13 +5,14 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.  
 Inspired by [Josh Branchaud's TIL repo][jb].
 
-_6 TILs and counting..._
+_7 TILs and counting..._
 
 ---
 
 ## Categories
 
 * [Git](#git)
+* [Go](#go)
 * [Kitty Terminal](#kitty)
 * [MongoDB](#mongodb)
 * [MySQL/MariaDB](#mysqlmariadb)
@@ -23,6 +24,10 @@ _6 TILs and counting..._
 ## Git
 
 - [Checkout Pull Request Locally](git/checkout-pull-request-locally.md)
+
+## Go
+
+- [How to set multiple workspaces (GOPATH)](go/how-to-set-multiple-workspaces.md)
 
 ## Kitty
 
