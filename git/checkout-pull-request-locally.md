@@ -32,7 +32,7 @@ I use this trick quite often to fix errors in pull requests/merge requests.
 	```bash
 	git pull origin main
 	# fix merge conflicts
-	git commit -m "Merge PR $PR"
+	git commit -m "Merge PR #$PR"
 	# switch to main branch
 	git checkout main
 	# merge branch and delete from local machine
@@ -71,7 +71,7 @@ I use this trick quite often to fix errors in pull requests/merge requests.
 	```bash
 	git pull origin main
 	# fix merge conflicts
-	git commit -m "Merge MR $MR"
+	git commit -m "Merge MR #$MR"
 	# switch to main branch
 	git checkout main
 	# merge branch and delete from local machine
