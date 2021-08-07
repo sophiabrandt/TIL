@@ -11,6 +11,7 @@ _7 TILs and counting..._
 
 ## Categories
 
+* [Fish Shell](#fish)
 * [Git](#git)
 * [Go](#go)
 * [Kitty Terminal](#kitty)
@@ -20,6 +21,10 @@ _7 TILs and counting..._
 * [Vim](#vim)
 
 ---
+
+## Fish
+
+- [Repeat a Command x times](fish/repeat-a-command-x-times.md)
 
 ## Git
 
