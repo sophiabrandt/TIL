@@ -10,4 +10,3 @@ function! CountTILs()
 endfunction
 
 nnoremap <leader>c :call CountTILs()<cr>
-iabbrev <silent>cnt <C-R>=%s/^- \[//n<CR>
