@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.  
 Inspired by [Josh Branchaud's TIL repo][jb].
 
-_9 TILs and counting..._
+_10 TILs and counting..._
 
 ---
 
@@ -15,6 +15,7 @@ _9 TILs and counting..._
 * [Git](#git)
 * [Go](#go)
 * [Kitty Terminal](#kitty)
+* [MacOS](#macos)
 * [MongoDB](#mongodb)
 * [MySQL/MariaDB](#mysqlmariadb)
 * [Node.js](#nodejs)
@@ -38,6 +39,10 @@ _9 TILs and counting..._
 ## Kitty
 
 - [Insert Unicode Characters](kitty/insert-unicode-characters.md)
+
+## MacOS
+
+- [Modify Application Dock Items](macos/modify-application-dock-items.md)
 
 ## MongoDB
 
