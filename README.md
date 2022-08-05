@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.  
 Inspired by [Josh Branchaud's TIL repo][jb].
 
-_10 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 
@@ -43,6 +43,7 @@ _10 TILs and counting..._
 ## MacOS
 
 - [Modify Application Dock Items](macos/modify-application-dock-items.md)
+- [Install psql](macos/install-psql.md)
 
 ## MongoDB
 
