@@ -5,12 +5,13 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.  
 Inspired by [Josh Branchaud's TIL repo][jb].
 
-_11 TILs and counting..._
+_12 TILs and counting..._
 
 ---
 
 ## Categories
 
+* [Bash](#bash)
 * [Fish Shell](#fish)
 * [Git](#git)
 * [Go](#go)
@@ -22,6 +23,10 @@ _11 TILs and counting..._
 * [Vim](#vim)
 
 ---
+
+## Bash
+
+- [Remove from PATH](bash/remove-from-path.md)
 
 ## Fish
 
