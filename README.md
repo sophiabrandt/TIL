@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.  
 Inspired by [Josh Branchaud's TIL repo][jb].
 
-_13 TILs and counting..._
+_14 TILs and counting..._
 
 ---
 
@@ -36,6 +36,7 @@ _13 TILs and counting..._
 ## Git
 
 - [Checkout Pull Request Locally](git/checkout-pull-request-locally.md)
+- [Set the date of the last commit to the current date](git/set_the_date_of_the_last_commit_to_the_current_date.md)
 
 ## Go
 
