@@ -12,4 +12,8 @@ Add to path:
 fish_add_path /opt/homebrew/opt/libpq/bin
 ```
 
+```bash
+echo 'echo export PATH="/opt/homebrew/opt/libpq/bin:$PATH"' >> ~/.bashrc
+```
+
 Source: [StackOverflow](https://stackoverflow.com/questions/44654216/correct-way-to-install-psql-without-full-postgres-on-macos)
