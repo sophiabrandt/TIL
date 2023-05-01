@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.  
 Inspired by [Josh Branchaud's TIL repo][jb].
 
-_15 TILs and counting..._
+_16 TILs and counting..._
 
 ---
 
@@ -20,6 +20,7 @@ _15 TILs and counting..._
 * [MongoDB](#mongodb)
 * [MySQL/MariaDB](#mysqlmariadb)
 * [Node.js](#nodejs)
+* [SQLite](#sqlite)
 * [TypeScript](#typescript)
 * [Vim](#vim)
 
@@ -63,6 +64,10 @@ _15 TILs and counting..._
 ## Node.js
 
 - [Update all packages to latest version](nodejs/update-all-packages-to-latest-version.md)
+
+## SQLite
+
+- [Create a timetracker with automatic timestamp](sqlite/create-a-timetracker-with-automatic-timestamp.md)
 
 ## TypeScript
 
