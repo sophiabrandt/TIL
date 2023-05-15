@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.  
 Inspired by [Josh Branchaud's TIL repo][jb].
 
-_16 TILs and counting..._
+_17 TILs and counting..._
 
 ---
 
@@ -29,6 +29,7 @@ _16 TILs and counting..._
 ## Bash
 
 - [Remove from PATH](bash/remove-from-path.md)
+- [Timer](bash/timer.md)
 
 ## Fish
 
