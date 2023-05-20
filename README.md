@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.  
 Inspired by [Josh Branchaud's TIL repo][jb].
 
-_17 TILs and counting..._
+_18 TILs and counting..._
 
 ---
 
@@ -15,6 +15,7 @@ _17 TILs and counting..._
 * [Fish Shell](#fish)
 * [Git](#git)
 * [Go](#go)
+* [JavaScript](#javascript)
 * [Kitty Terminal](#kitty)
 * [MacOS](#macos)
 * [MongoDB](#mongodb)
@@ -44,6 +45,10 @@ _17 TILs and counting..._
 ## Go
 
 - [How to set multiple workspaces (GOPATH)](go/how-to-set-multiple-workspaces.md)
+
+## JavaScript
+
+- [Memoize](javascript/memoize.md)
 
 ## Kitty
 
