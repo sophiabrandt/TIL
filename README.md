@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.  
 Inspired by [Josh Branchaud's TIL repo][jb].
 
-_18 TILs and counting..._
+_19 TILs and counting..._
 
 ---
 
@@ -36,6 +36,7 @@ _18 TILs and counting..._
 
 - [Repeat a Command x times](fish/repeat-a-command-x-times.md)
 - [Work with virtualenv](fish/work-with-virtualenv.md)
+- [Use entr to reload commands](fish/entr.md)
 
 ## Git
 
