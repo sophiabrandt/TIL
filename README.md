@@ -11,19 +11,19 @@ _19 TILs and counting..._
 
 ## Categories
 
-* [Bash](#bash)
-* [Fish Shell](#fish)
-* [Git](#git)
-* [Go](#go)
-* [JavaScript](#javascript)
-* [Kitty Terminal](#kitty)
-* [MacOS](#macos)
-* [MongoDB](#mongodb)
-* [MySQL/MariaDB](#mysqlmariadb)
-* [Node.js](#nodejs)
-* [SQLite](#sqlite)
-* [TypeScript](#typescript)
-* [Vim](#vim)
+- [Bash](#bash)
+- [Fish Shell](#fish)
+- [Git](#git)
+- [Go](#go)
+- [JavaScript](#javascript)
+- [Kitty Terminal](#kitty)
+- [MacOS](#macos)
+- [MongoDB](#mongodb)
+- [MySQL/MariaDB](#mysqlmariadb)
+- [Node.js](#nodejs)
+- [SQLite](#sqlite)
+- [TypeScript](#typescript)
+- [Vim](#vim)
 
 ---
 
@@ -70,6 +70,7 @@ _19 TILs and counting..._
 
 ## Node.js
 
+- [Generate a random JWT secret](nodejs/generate-a-random-jwt-secret.md)
 - [Update all packages to latest version](nodejs/update-all-packages-to-latest-version.md)
 
 ## SQLite
