@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.  
 Inspired by [Josh Branchaud's TIL repo][jb].
 
-_21 TILs and counting..._
+_22 TILs and counting..._
 
 ---
 
@@ -86,5 +86,6 @@ _21 TILs and counting..._
 
 - [Set Project Specific .vimrc Files](vim/set-project-specific-vim-files.md)
 - [Add New Line After Pattern](vim/add-new-line-after-pattern.md)
+- [Add a comma at each entry and join lines](vim/add-a-comma-and-join-lines.md)
 
 [jb]: https://github.com/jbranchaud/til
