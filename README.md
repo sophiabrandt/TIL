@@ -5,13 +5,14 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.  
 Inspired by [Josh Branchaud's TIL repo][jb].
 
-_22 TILs and counting..._
+_23 TILs and counting..._
 
 ---
 
 ## Categories
 
 - [Bash](#bash)
+- [Dot.net](#dotnet)
 - [Fish Shell](#fish)
 - [Git](#git)
 - [Go](#go)
@@ -31,6 +32,10 @@ _22 TILs and counting..._
 
 - [Remove from PATH](bash/remove-from-path.md)
 - [Timer](bash/timer.md)
+
+## Dot.net
+
+- [Use the dotnet CLI](/dotnet/dotnet-cli.md)
 
 ## Fish
 
