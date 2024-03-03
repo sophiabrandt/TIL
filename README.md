@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.  
 Inspired by [Josh Branchaud's TIL repo][jb].
 
-_23 TILs and counting..._
+_24 TILs and counting..._
 
 ---
 
@@ -23,6 +23,7 @@ _23 TILs and counting..._
 - [MySQL/MariaDB](#mysqlmariadb)
 - [Node.js](#nodejs)
 - [SQLite](#sqlite)
+- [Terminal](#terminal)
 - [TypeScript](#typescript)
 - [Vim](#vim)
 
@@ -82,6 +83,10 @@ _23 TILs and counting..._
 ## SQLite
 
 - [Create a timetracker with automatic timestamp](sqlite/create-a-timetracker-with-automatic-timestamp.md)
+
+## Terminal
+
+- [curlie on the commandline](terminal/curlie)
 
 ## TypeScript
 
