@@ -11,21 +11,22 @@ _24 TILs and counting..._
 
 ## Categories
 
-- [Bash](#bash)
-- [Dot.net](#dotnet)
-- [Fish Shell](#fish)
-- [Git](#git)
-- [Go](#go)
-- [JavaScript](#javascript)
-- [Kitty Terminal](#kitty)
-- [MacOS](#macos)
-- [MongoDB](#mongodb)
-- [MySQL/MariaDB](#mysqlmariadb)
-- [Node.js](#nodejs)
-- [SQLite](#sqlite)
-- [Terminal](#terminal)
-- [TypeScript](#typescript)
-- [Vim](#vim)
+<!-- prettier-ignore -->
+* [Bash](#bash)
+* [Dot.net](#dotnet)
+* [Fish Shell](#fish)
+* [Git](#git)
+* [Go](#go)
+* [JavaScript](#javascript)
+* [Kitty Terminal](#kitty)
+* [MacOS](#macos)
+* [MongoDB](#mongodb)
+* [MySQL/MariaDB](#mysqlmariadb)
+* [Node.js](#nodejs)
+* [SQLite](#sqlite)
+* [Terminal](#terminal)
+* [TypeScript](#typescript)
+* [Vim](#vim)
 
 ---
 
