@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.  
 Inspired by [Josh Branchaud's TIL repo][jb].
 
-_25 TILs and counting..._
+_26 TILs and counting..._
 
 ---
 
@@ -26,6 +26,7 @@ _25 TILs and counting..._
 * [Node.js](#nodejs)
 * [SQLite](#sqlite)
 * [Terminal](#terminal)
+* [Testing](#testing)
 * [TypeScript](#typescript)
 * [Vim](#vim)
 
@@ -92,7 +93,11 @@ _25 TILs and counting..._
 
 ## Terminal
 
-- [curlie on the commandline](terminal/curlie)
+- [curlie on the commandline](terminal/curlie.md)
+
+## Testing
+
+- [Request Interception with Playwright](testing/request-interception-with-playwright.md)
 
 ## TypeScript
 
