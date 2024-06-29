@@ -1,6 +1,5 @@
 # Create a Timetracker With Automatic Timestamp
 
-
 1. Open a new file:
 
 ```bash

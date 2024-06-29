@@ -33,7 +33,8 @@ fish_add_path $HOME/.go
 fish_add_path $HOME/projects/go/workspace
 ```
 
-[^1]: [Understanding the GOPATH][do]  
+[^1]: [Understanding the GOPATH][do]
+
 [^2]: [golang.org](https://golang.org/cmd/go/#hdr-Compile_and_install_packages_and_dependencies)
 
 [do]: https://www.digitalocean.com/community/tutorials/understanding-the-gopath

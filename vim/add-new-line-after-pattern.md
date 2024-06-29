@@ -6,4 +6,4 @@
 :%s,<pattern>,<pattern>\r,g
 ```
 
-* search and replace `<pattern>` with the same pattern but adding a return `\r`
+- search and replace `<pattern>` with the same pattern but adding a return `\r`

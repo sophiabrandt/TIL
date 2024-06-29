@@ -12,7 +12,7 @@ const Status = {
   Finished: "finished",
 } as const;
 // type StatusType = "running" | "stop" | "aborted" | "finished"
-type StatusType = typeof Status[keyof typeof Status];
+type StatusType = (typeof Status)[keyof typeof Status];
 
 function getStatusCode2(value: string) {
   switch (value) {

@@ -9,8 +9,7 @@ mysql> update mysql.user set host = ‘%’ where user=’root’;
 Query OK, 1 row affected (0.02 sec)
 ```
 
->Although for security reasons, it would be better to create a new non-admin user and grant access to that user only.
-
+> Although for security reasons, it would be better to create a new non-admin user and grant access to that user only.
 
 ## Docker with MariaDB
 
@@ -29,7 +28,7 @@ Example SQL script for setting up a user _with all privileges and without connec
 ```sql
 -- 01-user-setup.sql
 CREATE USER 'myuser'@'%' IDENTIFIED BY 'mypass';
- 
+
 GRANT ALL PRIVILEGES ON * . * TO 'myuser'@'%';
 ```
 
