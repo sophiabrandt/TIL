@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.  
 Inspired by [Josh Branchaud's TIL repo][jb].
 
-_26 TILs and counting..._
+_27 TILs and counting..._
 
 ---
 
@@ -28,6 +28,7 @@ _26 TILs and counting..._
 * [Terminal](#terminal)
 * [Testing](#testing)
 * [TypeScript](#typescript)
+* [Unix](#unix)
 * [Vim](#vim)
 
 ---
@@ -102,6 +103,10 @@ _26 TILs and counting..._
 ## TypeScript
 
 - [Refactor switch-else to object property access](typescript/refactor-switch-else-to-object-property-access)
+
+## Unix
+
+- [Find Process PID of a terminal command and kill it](unix/find-pid-and-kill.md)
 
 ## Vim
 
