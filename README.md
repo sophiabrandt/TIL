@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.  
 Inspired by [Josh Branchaud's TIL repo][jb].
 
-_27 TILs and counting..._
+_28 TILs and counting..._
 
 ---
 
@@ -13,6 +13,7 @@ _27 TILs and counting..._
 
 <!-- prettier-ignore -->
 * [Bash](#bash)
+* [Docker](#docker)
 * [Dot.net](#dotnet)
 * [Fish Shell](#fish)
 * [Git](#git)
@@ -37,6 +38,10 @@ _27 TILs and counting..._
 
 - [Remove from PATH](bash/remove-from-path.md)
 - [Timer](bash/timer.md)
+
+## Docker
+
+- [Grip](docker/grip.md)
 
 ## Dot.net
 
