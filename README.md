@@ -2,16 +2,17 @@
 
 > Today I learned
 
-A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.  
+A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.\
 Inspired by [Josh Branchaud's TIL repo][jb].
 
-_28 TILs and counting..._
+_29 TILs and counting..._
 
----
+______________________________________________________________________
 
 ## Categories
 
 <!-- prettier-ignore -->
+
 * [Bash](#bash)
 * [Docker](#docker)
 * [Dot.net](#dotnet)
@@ -32,7 +33,7 @@ _28 TILs and counting..._
 * [Unix](#unix)
 * [Vim](#vim)
 
----
+______________________________________________________________________
 
 ## Bash
 
@@ -73,6 +74,7 @@ _28 TILs and counting..._
 
 ## MacOS
 
+- [Automate Project Environments with Devbox and Direnv](macos/automate-project-environments-with-devbox-and-direnv.md)
 - [Modify Application Dock Items](macos/modify-application-dock-items.md)
 - [Install psql](macos/install-psql.md)
 
