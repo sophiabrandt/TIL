@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.\
 Inspired by [Josh Branchaud's TIL repo][jb].
 
-_29 TILs and counting..._
+_30 TILs and counting..._
 
 ______________________________________________________________________
 
@@ -13,25 +13,25 @@ ______________________________________________________________________
 
 <!-- prettier-ignore -->
 
-* [Bash](#bash)
-* [Docker](#docker)
-* [Dot.net](#dotnet)
-* [Fish Shell](#fish)
-* [Git](#git)
-* [Go](#go)
-* [JavaScript](#javascript)
-* [Kitty Terminal](#kitty)
-* [MacOS](#macos)
-* [MongoDB](#mongodb)
-* [MSSQL](#mssql)
-* [MySQL/MariaDB](#mysqlmariadb)
-* [Node.js](#nodejs)
-* [SQLite](#sqlite)
-* [Terminal](#terminal)
-* [Testing](#testing)
-* [TypeScript](#typescript)
-* [Unix](#unix)
-* [Vim](#vim)
+- [Bash](#bash)
+- [DevOps](#devops)
+- [Dot.net](#dotnet)
+- [Fish Shell](#fish)
+- [Git](#git)
+- [Go](#go)
+- [JavaScript](#javascript)
+- [Kitty Terminal](#kitty)
+- [MacOS](#macos)
+- [MongoDB](#mongodb)
+- [MSSQL](#mssql)
+- [MySQL/MariaDB](#mysqlmariadb)
+- [Node.js](#nodejs)
+- [SQLite](#sqlite)
+- [Terminal](#terminal)
+- [Testing](#testing)
+- [TypeScript](#typescript)
+- [Unix](#unix)
+- [Vim](#vim)
 
 ______________________________________________________________________
 
@@ -40,9 +40,10 @@ ______________________________________________________________________
 - [Remove from PATH](bash/remove-from-path.md)
 - [Timer](bash/timer.md)
 
-## Docker
+## DevOps
 
-- [Grip](docker/grip.md)
+- [Grip](devops/grip.md)
+- [Local HTTPS with caddy](devops/local-https-with-caddy.md)
 
 ## Dot.net
 
