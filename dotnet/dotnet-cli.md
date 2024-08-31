@@ -3,7 +3,9 @@
 Create a new solution:
 
 ```sh
-dotnet sln -n <name>
+dotnet new sln -n <solution name>
+# `dotnet new sln` creates a new .sln file in the current dir with the same name
+# as theFolder
 ```
 
 List all available templates to create a new project:
