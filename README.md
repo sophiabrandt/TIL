@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.\
 Inspired by [Josh Branchaud's TIL repo][jb].
 
-_30 TILs and counting..._
+_31 TILs and counting..._
 
 ______________________________________________________________________
 
@@ -48,6 +48,7 @@ ______________________________________________________________________
 ## Dot.net
 
 - [Use the dotnet CLI](/dotnet/dotnet-cli.md)
+- [Dockerfile](dotnet/dockerfile.md)
 
 ## Fish
 
