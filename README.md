@@ -5,35 +5,35 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.\
 Inspired by [Josh Branchaud's TIL repo][jb].
 
-_31 TILs and counting..._
+_32 TILs and counting..._
 
-______________________________________________________________________
+---
 
 ## Categories
 
 <!-- prettier-ignore -->
+* [Bash](#bash)
+* [DevOps](#devops)
+* [Dot.net](#dotnet)
+* [Fish Shell](#fish)
+* [Git](#git)
+* [Go](#go)
+* [JavaScript](#javascript)
+* [Kitty Terminal](#kitty)
+* [MacOS](#macos)
+* [MongoDB](#mongodb)
+* [MSSQL](#mssql)
+* [MySQL/MariaDB](#mysqlmariadb)
+* [Node.js](#nodejs)
+* [SQLite](#sqlite)
+* [Terminal](#terminal)
+* [Testing](#testing)
+* [TypeScript](#typescript)
+* [Unix](#unix)
+* [QMK](#qmk)
+* [Vim](#vim)
 
-- [Bash](#bash)
-- [DevOps](#devops)
-- [Dot.net](#dotnet)
-- [Fish Shell](#fish)
-- [Git](#git)
-- [Go](#go)
-- [JavaScript](#javascript)
-- [Kitty Terminal](#kitty)
-- [MacOS](#macos)
-- [MongoDB](#mongodb)
-- [MSSQL](#mssql)
-- [MySQL/MariaDB](#mysqlmariadb)
-- [Node.js](#nodejs)
-- [SQLite](#sqlite)
-- [Terminal](#terminal)
-- [Testing](#testing)
-- [TypeScript](#typescript)
-- [Unix](#unix)
-- [Vim](#vim)
-
-______________________________________________________________________
+---
 
 ## Bash
 
@@ -116,6 +116,10 @@ ______________________________________________________________________
 ## Unix
 
 - [Find Process PID of a terminal command and kill it](unix/find-pid-and-kill.md)
+
+## QMK
+
+- [Flash Keyboard With QMK](qmk/flash-keyboard-with-qmk.md)
 
 ## Vim
 
