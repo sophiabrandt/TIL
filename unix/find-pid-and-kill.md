@@ -17,7 +17,7 @@ kill -KILL <PID>
 Alternatively:
 
 ```sh
-pkil <name of process>
+pkill <name of process>
 ```
 
 [Source](https://askubuntu.com/questions/180336/how-to-find-the-process-id-pid-of-a-running-terminal-program)
