@@ -34,6 +34,10 @@ qmk setup
 make keebart/3w6_rgb:vial
 ```
 
+```bash
+qmk compile -kb ferris/sweep -km vial -e CONVERT_TO=rp2040_ce
+```
+
 ## Flash Keymap
 
 - Disconnect the keyboard from the computer.
