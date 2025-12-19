@@ -111,7 +111,7 @@ _32 TILs and counting..._
 
 ## TypeScript
 
-- [Refactor switch-else to object property access](typescript/refactor-switch-else-to-object-property-access)
+- [Refactor switch-else to object property access](typescript/refactor-switch-else-to-object-property-access.md)
 
 ## Unix
 
