@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.\
 Inspired by [Josh Branchaud's TIL repo][jb].
 
-_32 TILs and counting..._
+_33 TILs and counting..._
 
 ---
 
@@ -25,6 +25,7 @@ _32 TILs and counting..._
 * [MSSQL](#mssql)
 * [MySQL/MariaDB](#mysqlmariadb)
 * [Node.js](#nodejs)
+* [Postgres](#postgres)
 * [SQLite](#sqlite)
 * [Terminal](#terminal)
 * [Testing](#testing)
@@ -96,6 +97,10 @@ _32 TILs and counting..._
 
 - [Generate a random JWT secret](nodejs/generate-a-random-jwt-secret.md)
 - [Update all packages to latest version](nodejs/update-all-packages-to-latest-version.md)
+
+## Postgres
+
+- [Run Postgres via Docker](postgres/run-postgres-via-docker.md)
 
 ## SQLite
 
