@@ -137,6 +137,27 @@ git worktree add --detach ../myrepo-pr1234 FETCH_HEAD
 
 Commit before removing the worktree or note the SHA. Otherwise the commit is unreachable once the worktree is gone.
 
+### Merging the worktree
+
+From your main repo directory, where `master` is checked out:
+
+```bash
+git merge pr$PR
+git push
+git worktree remove ../myrepo-pr$PR
+git branch -D pr$PR
+```
+
+If there are conflicts, resolve them inside the worktree first:
+
+```bash
+cd ../myrepo-pr$PR
+git merge master        # fix conflicts, commit
+cd - && git merge pr$PR
+```
+
+A branch can't be checked out in two worktrees at once. If another worktree has `master` checked out, do the merge in that directory instead.
+
 ### Caveats
 
 - A branch can't be checked out in two worktrees at once, so each PR gets its own `pr$PR` branch.
