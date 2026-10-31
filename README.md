@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.\
 Inspired by [Josh Branchaud's TIL repo][jb].
 
-_34 TILs and counting..._
+_35 TILs and counting..._
 
 ---
 
@@ -122,6 +122,7 @@ _34 TILs and counting..._
 ## Unix
 
 - [Find Process PID of a terminal command and kill it](unix/find-pid-and-kill.md)
+- [Extend GPG key expiry without knowing the key ID](unix/extend-gpg-key-expiry.md)
 
 ## QMK
 
